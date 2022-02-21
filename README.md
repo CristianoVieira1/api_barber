@@ -46,8 +46,8 @@ Customers can choose the best time available to them.
 
 Providers can see all their appointments, manage the times, also see if one client canceled the schedule.
 
-To see the **web client**, click here: [GoBarber Web](https://github.com/EliasGcf/gobarber-web)<br />
-To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/EliasGcf/gobarber-mobile)
+To see the **web client**, click here: [Barber Web](https://github.com/CristianoVieira1/website_barber)<br />
+To see the **mobile client**, click here: [Barber Mobile](https://github.com/CristianoVieira1/app_barbearia)
 
 ## 🚀 Technologies
 
