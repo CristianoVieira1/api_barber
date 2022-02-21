@@ -6,25 +6,7 @@
 
 <p align="center">The best way to schedule your service!</p>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/gobarber-api?color=%23FF9000">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-%23FF9000">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/gobarber-api?color=%23FF9000">
-
-  <a href="https://github.com/EliasGcf/gobarber-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/gobarber-api?color=%23FF9000">
-  </a>
-
-  <a href="https://github.com/EliasGcf/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/gobarber-api?color=%23FF9000">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber-api?color=%23FF9000">
-</p>
 
 <p align="center">
   <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,10 +14,6 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
-</p>
-
-<p id="insomniaButton" align="center">
-  <a href="https://insomnia.rest/run/?label=GoBarber%20-%20EliasGcf&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEliasGcf%2Fgobarber-api%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## 💇🏻‍♂️ About the project
@@ -86,7 +64,7 @@ Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomn
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-api.git && cd gobarber-api
+$ git clone https://github.com/CristianoVieira1/api_barber && cd api_barber
 ```
 
 **Follow the steps below**
